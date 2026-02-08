@@ -65,6 +65,7 @@
 ---
 ### 🎬 Movie Discovery & Watch Party Organizer (Full Stack)
 **Tech:** Spring Boot, React.js, TMDB API  
+🔗 [GitHub Repository](https://github.com/Divyadharshini-SA/movie_discovery)
 
 - Created a full-stack platform to discover trending and popular movies using the TMDB API  
 - Developed watch party scheduling with participant collaboration features  
