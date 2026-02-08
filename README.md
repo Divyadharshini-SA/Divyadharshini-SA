@@ -63,7 +63,14 @@
 - Responsive frontend built using React.js  
 
 ---
+### 🎬 Movie Discovery & Watch Party Organizer (Full Stack)
+**Tech:** Spring Boot, React.js, TMDB API  
 
+- Created a full-stack platform to discover trending and popular movies using the TMDB API  
+- Developed watch party scheduling with participant collaboration features  
+- Implemented movie search, filtering, and event-based watch party creation  
+- Designed a clean, user-friendly UI for smooth navigation and interaction  
+---
 ### 🍔 Online Food Delivery Application
 **Tech:** React.js  
 🔗 [GitHub Repository](https://github.com/Divyadharshini-SA/online-food-delivery)
@@ -97,7 +104,12 @@
 
 🥉 **She Codes Aug 2024** – 3rd Place  
 🥈 **She Codes Sep 2024** – 2nd Place  
-🏆 **Hackathons:** SIH 2024, IamNeo 2024, She Codes AI 2025  
+🏆 **Hackathons & Events**
+- Smart India Hackathon (SIH) 2024  
+- IamNeo Hacksprint – Season 1  
+- IamNeo Hacksprint – Season 2  
+- She Codes AI 2025
+  
 🧠 **Workshop:** Intel Gen AI – AVANTAA'24  
 
 ---
@@ -107,6 +119,11 @@
 ✅ NPTEL – Cloud Computing (Elite), Mobile VR & AI (Elite), Effective Writing  
 ✅ Infosys Springboard – Java, C++, React.js, DSA, AWS, UI/UX  
 ✅ Coursera – AWS, Web Development & 20+ courses  
+✅ **Cisco Networking Academy**
+- Python Essentials 1  
+- Python Essentials 2  
+- CCNA: Enterprise Networking, Security, and Automation  
+- Introduction to Cybersecurity  
 
 ---
 
